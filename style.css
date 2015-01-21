@@ -81,3 +81,34 @@ a:hover {
   border-radius: 100%;
   margin-right: 1em;
 }
+
+
+/*CONTACT CLASSES*/
+
+.contact-and-nav-container {
+  font-family: "Permanent Marker";
+}
+
+.list-link {
+  font-family: "Josefin Slab";
+  font-size: 2em;
+}
+
+.icon {
+  font-family: "social-media";
+}
+
+.contact-list {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.list-link:hover {
+  text-decoration: none;
+  color: white;
+}
+
+#contact-list {
+  list-style-type: none;
+}
